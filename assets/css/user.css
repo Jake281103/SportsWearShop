@@ -1,0 +1,25 @@
+.account-hearder {
+    background-color: rgba(211, 240, 211, 0.686);
+    letter-spacing: 1px;
+}
+
+/* End user account */
+
+.boxshadows {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+        rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.bordersuccesses {
+    border-right: 3px solid #03286e;
+}
+
+@media (max-width: 768px) {
+    .userleftsidebars {
+        display: none;
+    }
+}
+
+.f-size-18{
+    font-size: 18px !important;
+}
